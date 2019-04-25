@@ -1,0 +1,14 @@
+.group-rec{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.rectangle{
+    /* justify-content: center;
+    align-items: center; */
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    background: #10718c;
+}
