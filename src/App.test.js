@@ -7,7 +7,7 @@ import {BrowserRouter, Switch, Router} from 'react-router-dom'
 configure({adapter: new Adapter()});
 
 it('renders without crashing', () => {
-  const wrapper = shallow(<BrowserRouter><App /></BrowserRouter>);
+  const wrapper = shallow(<App />);
   expect(wrapper.html()).toMatchSnapshot();
 });
 

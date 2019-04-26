@@ -27,6 +27,7 @@ class Opcao2 extends Component {
         <Link className="rectangle" to="/opcao2/3">3</Link>
         <Link className="rectangle" to="/opcao2/4">4</Link>
         <Link className="rectangle" to="/opcao2/4">5</Link>
+        <button>OIIIIIII</button>
       </div>  
     );
   }
