@@ -6,7 +6,7 @@ class Opcao1 extends Component {
   render() {
     return (
       <div>
-          Opcao3
+          Opcao2
       </div>  
     );
   }
